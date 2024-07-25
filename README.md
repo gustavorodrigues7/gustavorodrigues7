@@ -1,16 +1,26 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💸
 
-<!--
-**gustavorodrigues7/gustavorodrigues7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gustavo Rodrigues
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me deenvolvendo na Linguagem Java script
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ### Entrar em contato comigo 📫
+
+  gmail: rampazzo.rodrigues@escola.pr.gov.br
+  
+  instagram: @rodriguesnsw
+
+ 
+ ![](https://media.tenor.com/A_Rj7e8RwW4AAAAM/gif.gif
+)
+
+
+![](https://media.tenor.com/cJRcMyUAiMcAAAAM/ah-shit-here-we-go-again-ah-shit.gif)
+
+
+
+
+
