@@ -21,6 +21,7 @@ Meu nome é Gustavo Rodrigues
 ![](https://media.tenor.com/cJRcMyUAiMcAAAAM/ah-shit-here-we-go-again-ah-shit.gif)
 
 
+![](https://tenor.com/pt-BR/view/skyline-gtr-r34-gif-24757045)
 
 
-
+![]()
