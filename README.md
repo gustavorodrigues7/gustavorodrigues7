@@ -4,6 +4,7 @@ Meu nome é Gustavo Rodrigues
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me deenvolvendo na Linguagem Java script
+- Aprendendo a uilizar o Vs code
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
