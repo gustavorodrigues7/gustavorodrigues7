@@ -12,7 +12,7 @@ Meu nome é Gustavo Rodrigues
 
   gmail: rampazzo.rodrigues@escola.pr.gov.br
   
-  instagram: @heorodrigues
+  instagram: @grodrigueszt
 
  
  ![](https://media.tenor.com/A_Rj7e8RwW4AAAAM/gif.gif
